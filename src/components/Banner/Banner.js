@@ -53,6 +53,16 @@ function Banner() {
           >
             Get all the Info regarding your favorite Crypto Currency
           </Typography>
+          <Typography
+            variant="subtitle2"
+            style={{
+              color: "darkgrey",
+              textTransform: "capitalize",
+              fontFamily: "Montserrat",
+            }}
+          >
+            Designed by M R Kishore Kumar
+          </Typography>
         </div>
         <Carousel />
       </Container>
